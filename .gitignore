@@ -1,2 +1,16 @@
 # Raw dataset
 data/raw/IPL.csv
+# Data files
+data/raw/
+data/cleaned/*.csv
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment
+venv/
+.env
